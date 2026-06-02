@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Shivanshu 👋
 
-<!--
-**devshivansh11-png/devshivansh11-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Web Developer
 
-Here are some ideas to get you started:
+🚀 Building projects with HTML, CSS, JavaScript & AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Gurdaspur, Punjab, India
+
+🌱 Currently learning React, Git & GitHub
+
+## Skills
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Responsive Web Design
+
+## Projects
+🔹 Portfolio Website  
+🔹 Calculator App  
+🔹 Landing Pages  
+🔹 AI-Based Projects
+
+## Connect With Me
+📧 devshivansh11@gmail.com
